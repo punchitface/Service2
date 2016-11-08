@@ -16,7 +16,7 @@
     padding: 0;
     list-style-type: none;
     height: 19px;
-    width: 721px;
+    width: 800px;
 }
 
 .service-nav__menu li:first-child {
@@ -57,7 +57,7 @@
     height: 36px;
     border-radius: 2px 2px 2px 0px;
     background-color: #3a88bf;
-    line-height: 36px;
+    line-height: 38px;
     text-align: center;
     color: #fff;
     font-size: 14px;
